@@ -1,16 +1,21 @@
 # Delani-Studio
-A website that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.
+
+A website that offers a full range of services including brand strategy, interaction and visual design and user experience testing.
+Throughout your project, our designers create and implement visual design and workflows, solicit user feedback and work with you to make sure what gets built is what is needed.
 
 ## Technologies Used
+
 • HTML & CSS 
 • JavaScript
   J/query
   Bootstrap feature
 ### Requirements
+
 JavaScript Console
 Html
 
-Behaviour Driven Development
+## Behaviour Driven Development
+
 1. Displays Form For Entering email
     ◦ INPUT: "message"
     ◦ INPUT: "Users email"
